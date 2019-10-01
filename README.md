@@ -1,2 +1,2 @@
 # Data-Structures-Array-Object-Implementation
-Here a some object methods that can be used to give you the ability to preform custom functions according to you algorithm needs
+Here a some of the traditional built-in pre-defined object methods push(),pop(),unshit(), and shift(). That have been coded out to give you 100% control over the preformance of the methods instead of having to rely on the pre-defined ones. This code is perfect for those who are dealing with data structures in JS and need custom methods with almost identical actions but not quite the has the pre-defined ones. Enjoy!
